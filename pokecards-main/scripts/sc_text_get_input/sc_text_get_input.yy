@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_text_get_input",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_text_get_input",
+  "parent":{
+    "name":"tech",
+    "path":"folders/Scripts/tech.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

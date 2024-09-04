@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ms_battle_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":163.52313,
+  "name":"ms_battle_3",
+  "parent":{
+    "name":"music",
+    "path":"folders/Sounds/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ms_battle_3.wav",
+  "type":1,
+  "volume":1.0,
+}

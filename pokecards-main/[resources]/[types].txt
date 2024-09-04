@@ -1,0 +1,46 @@
+//00 normal, 01 grass, 02 fire, 03 water, 04 electric, 05 flying, 06 fighting, 07 psychic, 08 fairy
+//09 ground, 10 rock, 11 bug, 12 poison, 13 ice, 14 dragon, 15 steel, 16 ghost, 17 dark
+
+-	PROF. ASPEN	WHITEBUD TOWN
+GYM 1	IAN		IRIS TOWN
+GYM 2	CAMMIE		CAMELLIA CITY
+GYM 3	WALKER		BLUESTAR CITY
+GYM 4	MADISON		MARIGOLD CITY
+GYM 5	ZOE		ZINNIA TOWN
+GYM 6	VINCENT		VERBENA CITY
+GYM 7	PENNY		CANDYTUFT CITY
+GYM 8	LAKE		LUPINE CITY
+ELITE 1	EMILY
+ELITE 2	FINN
+ELITE 3	DION
+ELITE 4	APRIL
+CHAMP	DUNCAN
+
+normal	22	15	18	17	> 72	22+8 ORAN / 12+1 LEPPA / 17 LUM / 12 LUM
+grass	12	9	12	13	> 46	LUM
+fire	12	8	6	5	> 31	LEPPA
+water	28	18	24	13	> 83	ORAN
+elect	9	6	4	7	> 26	LUM
+flying	-	-	-	-	> 0	-
+fight	7	2	4	2	> 15	ORAN
+psychic	8	7	8	7	> 30	LEPPA
+fairy	2	5	-	1	> 8	LEPPA
+ground	8	3	6	4	> 21	LEPPA
+rock	9	4	8	6	> 27	LEPPA
+bug	12	10	12	8	> 42	LUM
+poison	14	1	3	6	> 24	LUM
+ice	2	4	6	3	> 15	ORAN
+dragon	3	-	7	3	> 13	ORAN
+steel	-	2	9	3	> 14	ORAN
+ghost	3	1	4	6	> 14	LEPPA
+dark	-	5	4	3	> 12	LEPPA
+
+I-II-III-IV
+ORAN	170	normal-I water fighting ice dragon steel
+LEPPA	157	normal-II fire psychic fairy ground rock ghost dark
+LUM	166	normal-III/IV grass electric bug poison
+
+I-II
+ORAN	124	normal grass fire water
+LEPPA	68	psychic fairy bug poison ghost dark
+LUM	59	electric fighting ground rock ice dragon steel

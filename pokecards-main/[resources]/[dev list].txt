@@ -1,0 +1,89 @@
+✔	project setup
+✔	card stats system
+✔	random card generation
+✔	playing grid & drawing cards
+✔	sorting cards in hand
+✔	placing cards
+✔	trashing cards
+✔	background
+✔	enemy turn
+✔	basic enemy AI: draw
+✔	basic enemy AI: play
+✔	basic enemy AI: discard
+✔	attacking
+✔	type bonuses
+✔	basic enemy AI: attack
+✔	first turn (bonuses & limitations)
+✔	first turn selection
+✔	roadmap setup
+✔	roadmap generation
+✔	win & lose
+✔	save data
+✔	environment cards
+✔	deck menu & construction
+✔	basic event system
+✔	event: card packs
+✔	starter decks
+✔	save deck
+✔	deck shuffle
+✔	money system
+✔	deck menu sorting
+✔	event choosing
+✔	event: pick card
+✔	card upgrade event system
+✔	event: level up
+✔	event: evolution
+✔	roadmap generation plan
+✔	event: add glyph
+✔	event: tribute
+✔	innate strength system
+✔	options menu
+✔	save config
+✔	main menu
+✔	music
+✔	event: berry shops
+✔	advanced enemy AI
+✔	glyphs [///////////////////]
+✔	event: gym area loop around
+✔	leave battle
+✔	multiple decks
+✔	card serials (sorting)
+✔	basic card forms (unown)
+✔	pokemon data (gen 1&2)
+✔	event: payoff
+✔	player sprites
+✔	battle background preview
+✔	trainer sprites
+✔	trainer classes setup
+✔	all trainer classes
+✔	enemy deck shuffle
+✔	enemy berry deck build count
+✔	type advantage guide
+✔	show area names
+✔	all gym decks
+✔	textbox system
+✔	tutorial
+✔	gym/league intro dialogue
+✔	credits
+✔	league roadmap
+✔	extra visual effects
+✔	sound effects
+✔	ending screen
+✔	sell cards
+✔	fly to cities
+✔	damage preview
+
+//////////////////////////////////////////////////
+
+	new berry card system & save data
+	mandatory attacking
+	adjust tutorial
+	new card stats formula
+	new pokemon stats
+	new unique abilities
+	berry transformation events
+	new roads/cities
+	new gyms
+	new league
+	region transition
+	re-adjust kyoumu

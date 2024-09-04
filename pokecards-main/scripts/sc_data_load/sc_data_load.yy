@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_data_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_data_load",
+  "parent":{
+    "name":"tech",
+    "path":"folders/Scripts/tech.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,62 @@
+Pocket Crystal League (PCL) is a Poke-card game, although completely different to the Official Trading Card Game. The gameplay mechanics were partially inspired by Inscryption, being pretty straightforward and easy to learn.
+
+After choosing a starter deck, your goal is to travel through Kyoumu, challenging each of the Gym Leaders from the eight major cities in the region, building up your team to reach the ultimate goal, the Crystal League. Along the way, you'll be presented with numerous choices to expand your deck, strengthen your cards, give them unique special abilities, and battle other trainers.
+
+The current release includes Generations I-IV (but with corresponding Fairy types). The game may be expanded with more content in the future, but there are currently no plans for any further updates. It is fully playable in its current state.
+Balancing can be a bit tricky at times, but I'm satisfied with the current level of difficulty, overall. The game is not supposed to be too easy, but challenging to a degree. Nevertheless, balance updates may happen if/when needed.
+
+This project was done ultimately just for fun, and I'm not getting any kind of revenue or payment from it— please Nintendo, let it be!
+
+I hope you enjoy it, and let me know if you have any issues!
+
+——————————
+
+Gameplay Tips:
+
+- The outskirts of each city, accesible throught the "Not Ready" button before facing a Gym Leader, feature slightly stronger opponents than the road previously leading to it.
+
+- Don't try to rush through each area unless you're attempting a challenge run. Training on the outskirts a few times before challenging a Gym Leader is recommended to build a balanced and versatile deck.
+
+- You don't need to equip all your Berries at all times. Think about how many you need (approximately), and how often you want to be able to draw each type relative to the entire deck. You can set a specific number of berries with the scroll wheel.
+
+- If the current area feels overwhelming in difficulty, you can visit any previous area by using the flight service available in all cities.
+
+- You can level up multiple cards as many times as you want during a single "Level Up" event, as long as you have enough money and have raised the level cap for your cards.
+
+- Don't add Glyphs to all your cards! A card with any amount of Glyphs costs more Berries than a card with none, so try to keep a balanced deck between single-cost cards and cards with Glyphs.
+
+——————————
+
+Keyboard Shortcuts:
+
+- Spacebar: end turn during battle, grab all cards when opening a pack, and skip victory/defeat screen after random battles.
+- Tab: sort cards in hand during battle.
+- Up arrow key (or W key): hold down to attack with all cards during battle.
+- Left/Right arrow keys (or A/D keys): navigate menus (options/deck), and draw cards during battle.
+- Up/Down arrow keys (or W/S keys): select number of berries when building deck.
+
+——————————
+
+Mods & Discord:
+
+​​PCL+ and PCL++ are both standalone mods based on the v1.6 base game (not the latest release). They have a bunch of different features and additions (glyphs, events, cards, etc.), and they also changed some core stuff altogether as well. Because of these changes though, sadly, they can also be somewhat unbalanced (further than the base game), and multiple people have been reporting bugs that can either cause major issues, or even break save files completely. Consider them as a different, alternate version of PCL, with some additions, changes, and some things missing as well (mostly due to the older version they're based on). Other than that, though, the mods can be pretty fun, and worth checking out (although I suggest doing so after playing through vanilla first). I am genuinely honored that people were able to build such cool things from the base game!
+
+Neither the mods nor vanilla are gonna receive any further updates. The mod teams have moved on to work on other things, and so have I. Although, I've said the same thing multiple times and then I go and update the base game again a bunch, so who knows, really.
+
+For more details, please check this post: https://moodytail.itch.io/pocket-crystal-league/devlog/704889/should-you-play-vanilla-or-the-mods
+
+——————————
+
+​- Pocket Crystal Discord: https://discord.gg/PEUqB45Hmy
+Community-made server for discussion about the game. Non-official, but I'm in there too and I can help with issues, answer questions, or you can just talk to other people, show us your decks and such.
+
+- Pocket Crystal League + (2022): https://github.com/Hyperion-21/pokecards_plus
+Community-made PCL expansion (based on PCL v1.6) that adds new cards and features. Now outdated, no longer being worked on, and a little buggy. Save files are separate from vanilla.
+
+- Pocket Crystal League ++ (2023): https://discord.gg/gc2GvSGp5f
+Community-made PCL expansion (based on PCL+, from PCL v1.6), with even more new cards and features. Now outdated, no longer being worked on, and with some game-breaking bugs, so please be careful! Save files are separate both from vanilla and PCL+.
+
+——————————
+
+The entire code is now public!
+https://gitlab.com/moodytail/pokecards

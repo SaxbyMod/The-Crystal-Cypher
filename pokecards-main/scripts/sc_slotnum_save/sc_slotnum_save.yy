@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_slotnum_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_slotnum_save",
+  "parent":{
+    "name":"tech",
+    "path":"folders/Scripts/tech.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

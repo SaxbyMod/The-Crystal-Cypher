@@ -1,0 +1,253 @@
+[v2.3.1.0] - June 18, 2024
+
+- "Adaptability" Glyph now deals 3 extra points of bonus damage (up from 2).
+- Added new natural Glyph: "Confidence" (a less powerful version of Adaptability).
+- Fixed issue related to the "Guru" Glyph.
+- Some other minor improvements.
+
+[v2.3.0.0] - June 15, 2024
+
+- Added new rare natural Glyph: "Guru" (any additional Glyphs don't increase berry cost).
+- "Shield" Glyph now also affects trees and rocks.
+- "Bulwark" Glyph now summons self-healing rocks instead of just regular ones.
+- Some other minor improvements (including bug fixes).
+
+——————————
+
+[v2.2.2.0] - June 14, 2024
+
+- Added some new secrets.
+- Some other minor improvements (including bug fixes).
+
+[v2.2.1.0] - June 14, 2024
+
+- Added new Challenge Mode: Roguelike Resolution.
+- Modified berry costs for Steelix and Swablu, to consistently fit their evolution counterparts.
+- Some other minor improvements.
+
+[v2.2.0.0] - March 26, 2024
+
+- Added save slot system (for separate playthroughs).
+- Some other minor improvements.
+
+——————————
+
+[v2.1.1.0] - March 25, 2024
+
+- Added in-battle "always auto-attack" toggle.
+- Fixed minor bug/exploit when holding the "attack with all cards" button.
+
+[v2.1.0.0] - March 3, 2024
+
+- Added Gym and League rematches.
+- Further modified all trainer decks slightly.
+- Some other minor improvements.
+
+——————————
+
+[v2.0.1.0] - February 28, 2024
+
+- Added a new kind of rare trainer battle, "Whisperer". These trainers use your own deck against you.
+
+[v2.0.0.0] - February 27, 2024
+
+- Added Generations 3 & 4.
+- Modified all starter decks and tutorial.
+- Substantially modified all trainer decks (especially Gym Leaders and Crystal League).
+- Overall difficulty is now slightly higher, and more consistent.
+- Fully rearranged all berry costs, for a more even distribution.
+- Extra berry costs are now consistent: no more mixed berries (except for Legendary/Mythical cards with Glyphs).
+- Added new Glyph: "Motivation" (raises attack and defense by 2 when HP is full).
+- "Debilitate" Glyph now lowers attack by 2 (up from 1).
+- Added 7 new card-specific Glyphs ("Setback", "Might", "Aegis", "Magnetism", "Sunlight", "Mindful", and "Intimidate").
+- Card-specific Glyphs now have individual icons.
+- Further raised drop chance for Legendary/Mythical cards.
+- Selling cards is now slightly faster.
+- Added some new secrets.
+- A ton of other minor improvements (including bug fixes).
+
+——————————
+
+[v1.8.1.0] - November 29, 2023
+
+- Added new Glyph: "Inertia" (grants 1 DP whenever it destroys another card).
+- Shield Glyph now raises defense by 2 (up from 1).
+- Bug fix: fixed engine issue when alt-tabbing or minimizing the game.
+- Some other minor improvements.
+
+[v1.8.0.0] - November 28, 2023
+
+- Added Shiny cards.
+- Added nickname system for cards (right click in Deck menu).
+- Tweaked card selling prices (cards with Glyphs, Legendaries, etc.).
+- Added new option to show dex numbers on cards.
+- Bug fix: fixed a rare issue in the data save system.
+- Some other minor improvements.
+
+——————————
+
+[v1.7.0.0] - November 21, 2023
+
+- Draw Points now remain after each turn when not used.
+- Further raised drop chance for Legendary/Mythical cards.
+- Significantly lowered costs for levelling up cards.
+- Modified all trainer decks (including Gym Leaders and Crystal League, especially Duncan's).
+- Save file statistics (time played, total battles, etc.) added to the Options menu.
+- Some other minor improvements.
+
+——————————
+
+[v1.6.0.0] - June 13, 2022
+
+- Electric-types now recquire Lum Berries.
+- Modified ruleset for Barrenness Mode and further tweaked Resolution Mode.
+- Berserk Glyph now triggers at 1/3 HP (up from 1/4) and Fork Attack Glyph now reduces base attack by 1/3 (down from 1/2).
+- Victory/defeat screen after random battles is now skippable (spacebar or right click).
+- Some other minor improvements.
+
+——————————
+
+[v1.5.2.0] - June 12, 2022
+
+- The spacebar can now be used to grab all cards in a pack.
+- Further tweaked Resolution Mode.
+
+[v1.5.1.0] - June 11, 2022
+
+- Resolution Mode now has extended routes.
+
+[v1.5.0.0] - June 11, 2022
+
+- Evolutions are no longer random, and can be selected at will.
+- Smeargle now has a unique Glyph: "Sketch".
+- Some other minor improvements (including bug fixes).
+
+——————————
+
+[v1.4.0.2] - June 10, 2022
+
+- Bug fix: fixed issue when sorting cards.
+
+[v1.4.0.1] - June 9, 2022
+
+- Bug fix: fixed issue when loading Challenge Mode from save file.
+
+Note: this update will remove any previously set challenges (if any) from existing save files (v1.4.0.0). Sorry for the inconvenience.
+
+[v1.4.0.0] - June 9, 2022
+
+- Added Challenge Modes: "Resolution", "Dominance" and "Barrenness".
+- Greatly reduced slowdown/hiccup issues when setting up decks and selling cards.
+- Raised money rewards from Battles (including Tutorial).
+- Berserk Glyph now triggers at 25% HP (up from 20%).
+- Moved "attack with all cards" button.
+- Some other minor improvements.
+
+——————————
+
+[v1.3.0.1] - June 8, 2022
+
+- Bug fix: fixed issue related to unique Glyphs (Mist and Transform).
+
+[v1.3.0.0] - June 7, 2022
+
+- Added new Glyph: "Recovery" (recovers 1 HP at the beginning of each active turn).
+- Added clickable button (hold) to attack with all cards during battle.
+- Improved Glyph distribution for all trainer decks.
+- Amount of berries needed for current deck setup is now visible in Deck menu.
+- Some other minor improvements (including bug fixes).
+
+——————————
+
+[v1.2.6.0] - June 2, 2022
+
+- You can now hold down the up arrow key (or W key) during battle to attack with all your cards.
+- Some other minor improvements.
+
+[v1.2.5.0] - June 1, 2022
+
+- Raised all money rewards (Battles and Payouts).
+- Raised drop chance for Legendary/Mythical cards.
+- Raised drop chance for Enigma Berries.
+
+[v1.2.4.2] - May 31, 2022
+
+- Bug fix: fixed rare crash when selecting cards during an event.
+
+[v1.2.4.1] - May 30, 2022
+
+- Bug fix: fixed issue related to event progression.
+
+[v1.2.4.0] - May 28, 2022
+
+- Slightly modified all trainer decks (including Gym Leaders and Crystal League).
+- Some other minor (visual) improvements.
+
+[v1.2.3.1] - May 28, 2022
+
+- A couple of minor visual improvements and clean-up.
+
+[v1.2.3.0] - May 27, 2022
+
+- Slightly raised drop chance for Legendary/Mythical cards.
+- Added level floor for cards you get in Card Packs as you progress through the game.
+- Readjusted card selling price to compensate.
+- Some other minor improvements.
+
+[v1.2.2.0] - May 27, 2022
+
+- Bug fix: fixed a calculation error for Tributes.
+
+[v1.2.1.0] - May 26, 2022
+
+- Tributes now always have a 100% success rate, they can no longer fail.
+- Enigma Berries can no longer amount to more than half of current Berry Deck.
+
+[v1.2.0.1] - May 26, 2022
+
+- Scroll wheel can now also be used to adjust some options.
+
+[v1.2.0.0] - May 24, 2022
+
+- Enigma Berries can now be used as wildcards.
+- Slightly improved AI and modified all trainer decks to fit these changes.
+- Raised drop chance for Enigma Berries in both Card Packs and Berry Packs.
+- Lowered berry cost of all Legendary/Mythical cards.
+- The left/right arrow keys (or A/D keys) can now be used to draw cards during battle.
+- Selling cards is now faster.
+- Some other minor improvements.
+
+——————————
+
+[v1.1.0.0] - May 24, 2022
+
+- Type advantage attacks now deal 1 extra point of damage every four levels.
+- Adaptability now adds 2 extra points of damage on top of the already existing type-advantage bonus.
+- Slightly readjusted overall Hit Points for most cards at higher levels.
+- Slightly rebalanced late game Gym Leaders and Crystal League.
+- Slightly raised spawn chance for most rare Glyphs.
+- Bug fix: fixed crash related to Harvest (opponent trying to draw/play more cards than allowed).
+- The "Exit Battle" button is now faster.
+- Some other minor improvements.
+
+——————————
+
+[v1.0.1.1] - May 21, 2022
+
+- Adding Glyphs to cards now lets you know what Berry cost will be added to the card as well.
+
+[v1.0.1.0] - May 21, 2022
+
+- Slightly lowered difficulty of random battles right after defeating a Gym Leader.
+- The up/down arrow keys (or W/S keys) can now also be used to set a specific number of berries in your deck.
+- Made in-game description for Tributes a bit more clear.
+- Some other minor improvements.
+
+——————————
+
+[v1.0.0.0] - May 18, 2022
+
+Pocket Crystal League has been officially released!
+
+Let me know if you run into any issues. I also recommend checking out the gameplay tips in the main page before downloading.
+I hope you have fun, and thank you all for your interest!

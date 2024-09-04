@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AI_draw_available",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AI_draw_available",
+  "parent":{
+    "name":"AI_draw",
+    "path":"folders/Scripts/AI/AI_draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

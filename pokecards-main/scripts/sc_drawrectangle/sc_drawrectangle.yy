@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_drawrectangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_drawrectangle",
+  "parent":{
+    "name":"tech",
+    "path":"folders/Scripts/tech.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
